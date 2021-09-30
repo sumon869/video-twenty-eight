@@ -1,0 +1,124 @@
+@media(max-width: 991px){
+    .banner form{
+        margin: 0 auto !important;
+        width: 80% !important;
+    }
+    .valueMissing {
+        font-size: 20px;
+    }
+    .act-img {
+        text-align: center;
+    }
+    .act-content {
+        margin-top: 9px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .team-img {
+        position: relative !important;
+        width: 140px;
+        left: -2px;
+        top: -63px;
+    }
+    .counter.text-center {
+        margin-bottom: 45px;
+    }
+    .plan-heading h1 {
+        font-size: 40px;
+    }
+    .plan-heading h4 {
+        font-size: 23px;
+    }
+    .act-content h2 {
+        margin-bottom: 30px;
+    }
+    .team-up-section h1 {
+        text-align: center;
+    }
+    .banner-inner h3 {
+        margin: 34px 0 !important;
+    }
+}
+@media(max-width: 768px){
+    .banner {
+        padding: 68px;
+    }
+    .feed-contact p {
+        width: 100%;
+    }
+    .plan-heading h1 {
+        font-size: 36px;
+    }
+    .plan-heading h4 {
+        font-size: 20px;
+    }
+    .plan-box {
+        text-align: center;
+        margin-bottom: 42px;
+    }
+    .plan-box h1 {
+        font-size: 37px;
+    }
+    .feed-contact h1 {
+        font-size: 32px;
+    }
+    .feed-contact h4 {
+        font-size: 20px;
+    }
+    .team-up-section {
+        text-align: center;
+    }
+    .team-up-section-left p {
+        margin-bottom: 36px;
+    }
+    .teammm {
+        margin-top: 0 !important;
+    }
+    .teammm {
+        margin-top: 0 !important;
+        margin-bottom: 30px;
+    }
+    .about-img img {
+        width: 184px;
+    }
+    .act-content h2 {
+        margin-bottom: 32px;
+    }
+    .valueMissing {
+        margin-bottom: 13px;
+    }
+    .banner-inner h3 {
+        font-size: 33px;
+    }
+    .banner-inner p {
+        font-size: 18px !important;
+    }
+    .counter h1 {
+        font-size: 38px;
+    }
+    section.google-play h1 {
+        width: 100% !important;
+    }
+    .btn-section .btn2 {
+        padding: 11px 18px;
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .btn-section .btn1 {
+        padding: 9px 13px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+    footer p {
+        font-size: 15px !important;
+    }
+}
+@media (max-width: 362px){
+    .btn-section .btn1 {
+        margin-bottom: 20px;
+    }
+    section.google-play h1 {
+        width: 100% !important;
+        font-size: 22px;
+    }
+}
